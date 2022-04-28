@@ -20,9 +20,9 @@
   "homepage": "https://github.com/glfan-BTS/eslint-prettier#readme",
   "lint-staged": {
     "./**/*.{js}": [
-        "eslint --fix",
-        "git add"
-      ]
+      "eslint --fix",
+      "git add"
+    ]
   },
   "devDependencies": {
     "@commitlint/cli": "^16.2.4",
